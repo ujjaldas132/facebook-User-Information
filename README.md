@@ -1,4 +1,4 @@
-# facebook-User-Information
+## Facebook-User-Information
 
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
@@ -16,3 +16,34 @@
 
 
 > **Know how you use FACEBOOK.**
+
+
+
+## Table of Contents
+
+- [Facebook-User-Information](#Facebook-User-Information)
+  - [Table of Contents](#table-of-contents)
+  - [Getting the data](#getting-the-data)
+  - [Usage](#usage)
+    - [Posts](#Posts)
+    
+  - [Contributing](#contributing)
+  - [Features](#features)
+    - [Your Posts](#Your-posts)
+  - [Observations](#observations)
+  - [Why](#why)
+  - [License](#license)
+
+## Getting the data
+
+1. Head on to [Facebook > Settings > General Settings > Your facebook information](https://www.facebook.com/settings?tab=your_facebook_informations).
+
+  ## usage
+  ### Posts
+    
+  ## contributing
+ ## features
+ ### Your posts
+ ## observations
+ ## why
+ ## license
