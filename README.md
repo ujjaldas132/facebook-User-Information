@@ -24,7 +24,7 @@
 - [Facebook-User-Information](#Facebook-User-Information)
   - [Table of Contents](#table-of-contents)
   - [Getting the data](#getting-the-data)
-  - [Usage](#usage)
+  - [How To Use](#How-To-Use)
     - [Posts](#Posts)
     
   - [Contributing](#contributing)
@@ -41,7 +41,7 @@
 
 2. Download the file as JSON file.
 
-  ## usage
+  ## How To Use
   Install requirements with `pip install -r requirements.txt`
   
   ### Posts
