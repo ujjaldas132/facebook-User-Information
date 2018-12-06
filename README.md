@@ -37,31 +37,31 @@
 
 ## Getting the data
 
-1. Head on to [Facebook > Settings > General Settings > Your facebook information](https://www.facebook.com/settings?tab=your_facebook_informations).
+1.  Head on to [Facebook > Settings > General Settings > Your facebook information](https://www.facebook.com/settings?tab=your_facebook_informations).
 
-2.Download the file as JSON file 
+2. Download the file as JSON file.
 
   ## usage
   Install requirements with `pip install -r requirements.txt`
   
   ### Posts
    
-   **Updated soon**
+   > Updated soon
    
   ## contributing
-  **Updated soon**
+  > Updated soon
   
  ## features
- **Updated soon**
+ > Updated soon
  
  ### Your posts
- **Updated soon**
+ > Updated soon
  
  ## observations
- **Updated soon**
+ > Updated soon
  
  ## why
- **Updated soon**
+ > Updated soon
  
  ## license
  The MIT License (MIT) 2018 - [Ujjal Das](https://github.com/ujjaldas132). Please have a look at the [LICENSE](LICENSE) for more details.
