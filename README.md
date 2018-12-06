@@ -34,16 +34,34 @@
   - [Why](#why)
   - [License](#license)
 
+
 ## Getting the data
 
 1. Head on to [Facebook > Settings > General Settings > Your facebook information](https://www.facebook.com/settings?tab=your_facebook_informations).
 
+2.Download the file as JSON file 
+
   ## usage
+  Install requirements with `pip install -r requirements.txt`
+  
   ### Posts
-    
+   
+   **Updated soon**
+   
   ## contributing
+  **Updated soon**
+  
  ## features
+ **Updated soon**
+ 
  ### Your posts
+ **Updated soon**
+ 
  ## observations
+ **Updated soon**
+ 
  ## why
+ **Updated soon**
+ 
  ## license
+ The MIT License (MIT) 2018 - [Ujjal Das](https://github.com/ujjaldas132). Please have a look at the [LICENSE](LICENSE) for more details.
